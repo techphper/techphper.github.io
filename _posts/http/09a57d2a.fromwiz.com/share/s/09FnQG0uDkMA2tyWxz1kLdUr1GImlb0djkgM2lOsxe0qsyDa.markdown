@@ -10,6 +10,4 @@ tags:
   - misc
 ---
 
-[![Shadow](/media/files/2017/03/17/shadow.jpg)](https://www.flickr.com/photos/lhzhang/23999442826/in/dateposted-public/)
-
 - 完成了读书计划，最爱「1984」
