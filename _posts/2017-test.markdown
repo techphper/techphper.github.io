@@ -1,10 +1,17 @@
 ---
-title: '新域名'
+title: 雪山
 layout: post
-urn:uuid:afa0ccfa-bd18-4008-93f0-b12d20edefba
+guid: urn:uuid:afa0ccfa-bd18-4008-93f0-b12d20edefba
 tags:
-    - blog
-    - misc
+  - photography
+  - hasselblad
+  - 500cm
 ---
 
-下决心扔掉原来那个域名了，看到这篇的麻烦改下友链
+
+天气终于暖和了起来，冬天就用这张不是全景的全景作为最后的作业吧
+
+---
+
+周末跑去听了 bob dylan 的 live，大爷真的是老了  
+但愿今年能拍到好看的樱花
