@@ -1,6 +1,7 @@
 ---
 title: '新域名'
 layout: post
+urn:uuid:afa0ccfa-bd18-4008-93f0-b12d20edefba
 tags:
     - blog
     - misc
