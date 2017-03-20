@@ -3,20 +3,12 @@ title: about
 layout: page
 ---
 
-a
+love
 
 > Minimalist | Appleist | Unixer | Coder
 
-who involved in 
+mail
 
-> [github](https://github.com/waynezhang)
-
-mail 
-
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
-
-or follow 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
+> sheng@websay.me.
 
 to reach me
