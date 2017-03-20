@@ -5,7 +5,7 @@ name: "Run with you."
 markdown: rdiscount
 
 author: "sheng"
-atom-baseurl: "https://websay.me"
+atom-baseurl: "http://lhzhang.com"
 disqus: "gopherwood"
 
 navigations:
