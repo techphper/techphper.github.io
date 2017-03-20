@@ -1,10 +1,10 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "Run with you."
+name: "rusty shutter"
 markdown: rdiscount
 
-author: "sheng"
+author: "wayne"
 atom-baseurl: "http://lhzhang.com"
 disqus: "gopherwood"
 
@@ -24,4 +24,3 @@ navigations:
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
-
