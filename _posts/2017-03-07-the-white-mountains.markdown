@@ -1,7 +1,6 @@
 ---
 title: 希望你喜欢
 layout: post
-guid: urn:uuid:afa0ccfa-bd18-4008-93f0-b12d20edefbc
 tags:
   - love
 ---
