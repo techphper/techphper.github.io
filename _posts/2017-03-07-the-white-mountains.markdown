@@ -1,16 +1,15 @@
 ---
-title: 雪山
+title: 希望你喜欢
 layout: post
 tags:
-  - photography
-  - hasselblad
-  - 500cm
+  - love
 ---
 
+[![White Mountains](/media/files/2014/04/07/white-mountains.jpg)](http://500px.com/photo/64294269)
 
-天气终于暖和了起来，冬天就用这张不是全景的全景作为最后的作业吧
+天气慢慢暖和了起来，我们也快相见了
 
 ---
 
-周末跑去听了 bob dylan 的 live，大爷真的是老了  
-但愿今年能拍到好看的樱花
+做了很多，希望你喜欢，送你的钻戒，我觉得特别好看
+我在等待和你的未来
