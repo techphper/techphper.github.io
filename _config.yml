@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "Run with you ."
 markdown: rdiscount
 
-author: "Sheng"
+author: "sheng"
 atom-baseurl: "https://websay.me"
 
 navigations:
