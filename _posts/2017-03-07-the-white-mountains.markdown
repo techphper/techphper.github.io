@@ -5,7 +5,7 @@ tags:
   - love
 ---
 
-[![White Mountains](/media/files/2014/04/07/white-mountains.jpg)](http://500px.com/photo/64294269)
+[![White Mountains](/media/files/2014/04/07/white-mountains.jpg)]()
 
 天气慢慢暖和了起来，我们也快相见了
 
