@@ -1,0 +1,53 @@
+---
+title: 出售一些物品
+layout: post
+tags:
+  - book
+  - sell
+---
+
+因为本人将要在近段时间去杭州发展，目前在北京，家里有很多以前买的东西，太多了很麻烦带过去，希望这些物品或书籍转卖给有需要的朋友。
+
+---
+
+# 个人简历
+
+## 汪保胜
+* 性别：男
+* 年龄：26
+* 籍贯：安徽宣城
+* 工作年限：4 年左右在职工作经验
+
+
+## 概况
+* 邮箱：techphper#gmail.com
+* 手机：186-0087-1687
+* 主页：http://websay.me
+* 期望：北京地区、杭州地区 PHP开发工程师
+* 目前：`在职，准备离职`
+
+
+## 掌握技能
+待添加...
+
+## 工作经历
+时间|公司|职位
+:--|:---|----
+2016-09-01~至今|[开心麻花](http://kaixinmahua.com.cn/)|PHP开发
+2015-09-01~2016-09-01|北京海洁尼克科技有限公司|PHP技术负责人
+2013-06-24~2015-09-01|北京正邦科技有限公司|PHP开发
+
+
+## 项目经验
+待添加...
+
+## 您聘请我的理由
+* 工作能力强，学习时间长，对行业知识了解比较全面；
+* PHP基础比较扎实，能够满足您对程序员的要求；
+* [学习能力强，能自主学习，善于做技术总结，能快速适应新的工作环境；](http://gitlab.boophp.com:9090/open-source/awesome-php-knowledge/blob/dev/blog/README.md#category)
+* [对WEB的整个开发流程和优化方法比较熟悉；](http://gitlab.boophp.com:9090/open-source/awesome-php-knowledge/blob/dev/about/keywords.md)
+* [经常逛些技术社区，了解最新的技术动态;](http://gitlab.boophp.com:9090/open-source/awesome-php-knowledge/blob/dev/blog/README.md)
+* [阅读过几本书，善于做总结](http://gitlab.boophp.com:9090/open-source/awesome-php-knowledge/blob/dev/blog/book/README.md)
+
+## 最后
+感谢您在百忙之中阅读这份简历，诚挚的期盼能得到面试机会，希望有荣幸能为公司效力。再次数以我最诚挚的谢意。
