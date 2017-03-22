@@ -3,4 +3,10 @@ title: about
 layout: page
 ---
 
-> email: `sheng#websay.me`.
+wechat
+
+> 18600871687.
+
+mail
+
+> sheng#websay.me.
