@@ -6,8 +6,6 @@ tags:
   - sell
 ---
 
-[![White Mountains](/media/files/2014/04/07/white-mountains.jpg)]()
-
 因为本人将要在近段时间去杭州发展，目前在北京，家里有很多以前买的东西，太多了很麻烦带过去，希望这些物品或书籍转卖给有需要的朋友。
 
 ---
