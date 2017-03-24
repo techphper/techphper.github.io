@@ -1,6 +1,6 @@
 ---
 title: test
-layout: post
+layout: page
 tags:
   - fujifilm
   - tx-1
