@@ -1,5 +1,5 @@
 ---
-title: 文图效果
+title: zrong.cc
 layout: post
 tags:
   - about
