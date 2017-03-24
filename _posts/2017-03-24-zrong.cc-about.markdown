@@ -7,13 +7,13 @@ tags:
 
 ![Lost](/media/files/2014/03/17/lost.jpg)
 
-> [wechat](/media/files/2016/03/24/wechat.png)  
+> <a href="/media/files/2016/03/24/wechat.png">wechat</a>
 
-> [drribbble](https://dribbble.com/Lemonzhang)  
+> <a href="https://dribbble.com/Lemonzhang">drribbble</a>  
 
-> [weibo](http://weibo.com/cutezr)  
+> <a href="http://weibo.com/cutezr">weibo</a>  
 
-> [maimai](/media/files/2016/03/24/maimai.png)  
+> <a href="/media/files/2016/03/24/maimai.png">maimai</a>  
 
 
 Follow me!
