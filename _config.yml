@@ -17,3 +17,6 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
+  - title: Test
+    class: fa fa-user
+    href: /test.html
